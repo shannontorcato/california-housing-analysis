@@ -1,4 +1,4 @@
-![banner](assets/covidBanner.png)
+![banner](assets/Banner.png)
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
